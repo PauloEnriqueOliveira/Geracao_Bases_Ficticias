@@ -42,7 +42,7 @@ boolean_column = np.random.choice([True, False], num_rows)
 ~~~
 
 #### - Geração de Id's
-- Substitua o "x.x" pelos valores minimos e maximos.
+- Substitua o "x" pelos valores minimos e maximos.
 ~~~
 cod_pol = np.random.randint(x, x, num_rows)
 ~~~
