@@ -48,7 +48,7 @@ cod_pol = np.random.randint(x, x, num_rows)
 ~~~
 
 #### - Geração de Data
-- Substitua o "x.x" pelos valores minimos e maximos.
+- Substitua o "yyyy" - pelo ano, "mm" - pelo mês e "dd" - pelo dia.
 ~~~
 from datetime import datetime, timedelta
 
